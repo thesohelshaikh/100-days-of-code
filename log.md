@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 2018
 <!--
 
 ### Day 0: February 30, 2016 (Example 1)
@@ -20,7 +20,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 1: June 27, Monday
+### Day 1: September 11, Tuesday
 
 **Today's Progress**: Made a simple login system in PHP.
 
