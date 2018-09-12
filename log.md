@@ -20,10 +20,16 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 1: September 11, Tuesday
+### Day 1: September 11
 
 **Today's Progress**: Made a simple login system in PHP.
 
-**Thoughts** It was great brushing up on my old knowledge of PHP also learnt new syntax for mysqli.
+**Thoughts**: It was great brushing up on my old knowledge of PHP also learnt new syntax for mysqli.
 
 **Link to work:** [php-login-demo](https://github.com/thesohelshaikh/php-login-demo)
+
+### Day 2: September 12
+
+**Today's Progress**: Made design changes to web projects i am currently working on. 
+
+**Thoughts**: Was working on guide to github, wouln't consider that towards code so wansn't able to work on other projects. Have a lot of thingd planned so feeling excited. 
