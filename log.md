@@ -32,4 +32,4 @@
 
 **Today's Progress**: Made design changes to web projects i am currently working on. 
 
-**Thoughts**: Was working on guide to github, wouln't consider that towards code so wansn't able to work on other projects. Have a lot of thingd planned so feeling excited. 
+**Thoughts**: Was working on guide to github, wouln't consider that towards code so wansn't able to work on other projects. Have a lot of things planned so feeling excited. 
