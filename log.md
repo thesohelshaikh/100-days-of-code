@@ -33,3 +33,9 @@
 **Today's Progress**: Made design changes to web projects i am currently working on. 
 
 **Thoughts**: Was working on guide to github, wouln't consider that towards code so wansn't able to work on other projects. Have a lot of things planned so feeling excited. 
+
+### Day 2: September 13
+
+**Today's Progress**: Worked on web app. 
+
+**Thoughts**: Spending a lot more time on design changes, need to go through design concepts to be able to save time. 
