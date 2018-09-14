@@ -39,3 +39,11 @@
 **Today's Progress**: Worked on web app. 
 
 **Thoughts**: Spending a lot more time on design changes, need to go through design concepts to be able to save time. 
+
+### Day 4: September 14
+
+**Today's Progress**: Created my first JAMstack app. Learn't about several npm modules.
+
+**Thoughts**: This was as a part of my application to Hackathon bt freecodecamo at GitHub. Looking forward to it.
+
+**Link to work:** [JAMstack-hello](https://github.com/thesohelshaikh/JAMstack-hello)
