@@ -44,6 +44,6 @@
 
 **Today's Progress**: Created my first JAMstack app. Learn't about several npm modules.
 
-**Thoughts**: This was as a part of my application to Hackathon bt freecodecamo at GitHub. Looking forward to it.
+**Thoughts**: This was as a part of my application to Hackathon by freecodecamp at GitHub. Looking forward to it.
 
 **Link to work:** [JAMstack-hello](https://github.com/thesohelshaikh/JAMstack-hello)
