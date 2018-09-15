@@ -47,3 +47,9 @@
 **Thoughts**: This was as a part of my application to Hackathon by freecodecamp at GitHub. Looking forward to it.
 
 **Link to work:** [JAMstack-hello](https://github.com/thesohelshaikh/JAMstack-hello)
+
+### Day 5: September 15
+
+**Today's Progress**: Learnt about ANN and CNN, how to implement ANN in python, different CNN architechtures. Also started python DataCamp.
+
+**Thoughts**: Today was very owerwhelming, big terms thrown at me, i don't know if i did justice to all of them. Will go throu neural networks once again after my exams. It was a great day.
