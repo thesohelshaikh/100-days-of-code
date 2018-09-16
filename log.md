@@ -53,3 +53,13 @@
 **Today's Progress**: Learnt about ANN and CNN, how to implement ANN in python, different CNN architechtures. Also started python DataCamp.
 
 **Thoughts**: Today was very owerwhelming, big terms thrown at me, i don't know if i did justice to all of them. Will go throu neural networks once again after my exams. It was a great day.
+
+### Day 6: September 16
+
+**Today's Progress**: Completed 'Intro to Python for Data Science'. Worked on web app.
+
+**Thoughts**: Certainly spending a lot more time than an hour but it's all woth it. Will stick to curriculam from now on.
+
+**Link to work:** [Certificate for accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/bd99e728480aeecab5b52a5da94f8758af0f16c0)
+
+
