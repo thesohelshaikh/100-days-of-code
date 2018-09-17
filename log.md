@@ -62,4 +62,10 @@
 
 **Link to work:** [Certificate for accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/bd99e728480aeecab5b52a5da94f8758af0f16c0)
 
+### Day 7: September 17
+
+**Today's Progress**: Learned about decentralised AI and blockchain technology. Learn't how to create a go-Ethereum client for mining.
+
+**Thoughts**: Wasn't a very productive day. 
+
 
