@@ -68,4 +68,8 @@
 
 **Thoughts**: Wasn't a very productive day. 
 
+### Day 8: September 18
 
+**Today's Progress**: Took up a course for Relational Database Design.
+
+**Thoughts**: Following the curriculum as exams are approaching. I have considered SQL queries part of code. It was a lot more productive day than yesterday. 
