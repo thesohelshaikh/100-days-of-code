@@ -73,3 +73,9 @@
 **Today's Progress**: Took up a course for Relational Database Design.
 
 **Thoughts**: Following the curriculum as exams are approaching. I have considered SQL queries part of code. It was a lot more productive day than yesterday. 
+
+### Day 9: September 19
+
+**Today's Progress**: Finished the database design course i took up yesterday. 
+
+**Thoughts**: Was messing up with windows developer builds for the most part of my free time. Updated excite me a lot.
