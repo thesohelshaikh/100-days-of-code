@@ -79,3 +79,9 @@
 **Today's Progress**: Finished the database design course I took up yesterday. 
 
 **Thoughts**: Was messing up with windows developer builds for the most part of my free time. Updated excite me a lot.
+
+### Day 10: September 20
+
+**Today's Progress**: Wrote a few shell scripts, learned few linux commands.
+
+**Thoughts**: For the major part of the day i solved problems relating to theory of computation.
