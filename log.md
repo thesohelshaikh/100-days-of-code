@@ -85,3 +85,7 @@
 **Today's Progress**: Wrote a few shell scripts, learned few linux commands.
 
 **Thoughts**: For the major part of the day i solved problems relating to theory of computation.
+
+### September 21-26
+
+>Took a break to prepare for sessional examinations.
