@@ -86,6 +86,18 @@
 
 **Thoughts**: For the major part of the day i solved problems relating to theory of computation.
 
-### September 21-26
+### September 21-30
 
 >Took a break to prepare for sessional examinations.
+
+### Day 11-15: October 1-5
+
+**Today's Progress**: Worked on web project
+
+**Thoughts**: Really could not put my mind to it, procastinated a lot.
+
+### Day 16: October 6
+
+**Today's Progress**: Worked on python project, learned webscrapping, stemming, removing stopwords.
+
+**Thoughts**: Felt awesome today. Got a lot of work in. Learned a lot. Back on track.
