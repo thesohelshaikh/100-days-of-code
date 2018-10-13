@@ -101,3 +101,16 @@
 **Today's Progress**: Worked on python project, learned webscrapping, stemming, removing stopwords.
 
 **Thoughts**: Felt awesome today. Got a lot of work in. Learned a lot. Back on track.
+
+### Day 17-20: October 7-10
+
+**Today's Progress**: Learned about cyber laws and cyber forensics. Wrote a term paper regarding the same.
+
+**Thoughts**: This was my first time writing an actial paper. I learned a lot about writing papers in general.
+
+
+### Day 21-23: October 11-13
+
+**Today's Progress**: Learned how to incorporate google forms in webpage. Also contributes to open source. Finished Five pull requeste for my Hacktoberfest challenge.
+
+**Thoughts**: Very much excited for hacktoberfest.
